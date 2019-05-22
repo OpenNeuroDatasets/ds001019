@@ -1,1 +1,16 @@
-{"Name":"","License":"","Authors":["G. Elliott Wimmer","Christian Buchel"],"Acknowledgements":"","HowToAcknowledge":"","Funding":"","ReferencesAndLinks":[],"DatasetDOI":""}
+{
+    "id": "HEAD",
+    "Name": "predictionLearn",
+    "License": "",
+    "Authors": [
+        "G. Elliott Wimmer",
+        "Christian Buchel"
+    ],
+    "Acknowledgements": "",
+    "HowToAcknowledge": "",
+    "Funding": [
+        ""
+    ],
+    "ReferencesAndLinks": [],
+    "DatasetDOI": ""
+}
