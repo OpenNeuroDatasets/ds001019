@@ -1,0 +1,19 @@
+{
+    "Name": "navLearn",
+    "BIDSVersion": "1.51.0.0-rc1",
+    "Authors": [
+        "G. Elliott Wimmer",
+        "Christian Buchel"
+    ],
+    "Acknowledgements": "",
+    "Funding": [
+        ""
+    ],
+    "ReferencesAndLinks": [
+        "https://doi.org/10.1101/450999",
+        "https://github.com/gewimmer-neuro/ofc-prediction"
+    ],
+    "License": "CC0",
+    "HowToAcknowledge": "Please cite https://doi.org/10.1101/450999",
+    "DatasetDOI": "10.18112/openneuro.ds001019.v1.0.0"
+}
