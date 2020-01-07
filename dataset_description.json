@@ -14,6 +14,6 @@
         "https://github.com/gewimmer-neuro/ofc-prediction"
     ],
     "License": "CC0",
-    "HowToAcknowledge": "Please cite https://doi.org/10.1101/450999",
+    "HowToAcknowledge": "Please cite http://dx.doi.org/10.1038/s41467-019-10597-z",
     "DatasetDOI": "10.18112/openneuro.ds001019.v1.0.0"
 }
