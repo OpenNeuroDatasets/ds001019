@@ -2,7 +2,7 @@
   - json update
 {"error": "file not found in git tree"}
 
-1.0.1 2020-01-07
+1.1.0 2020-01-07
   - regressor update (all tsv files)
     added to separate folder 'func_regressors_all'
     given unwieldy openneuro website
