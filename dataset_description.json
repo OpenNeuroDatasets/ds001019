@@ -3,7 +3,7 @@
     "BIDSVersion": "1.51.0.0-rc1",
     "Authors": [
         "G. Elliott Wimmer",
-        "Christian Buchel"
+        "Christian Buechel"
     ],
     "Acknowledgements": "The authors would like to thank Lara Austerman, Lea Kampermann, and Sven Scho\u0308nig assistance in behavioral and fMRI data collection and helpful discussions and Martin Hebart and Krzysztof (Chris) J. Gorgolewski for assistance with fMRI methods and preprocessing. The authors are grateful to the University of Minnesota Center for Magnetic Resonance Research for providing the image reconstruction algorithm for the simultaneous multi-slice acquisitions.",
     "Funding": [
