@@ -7,7 +7,9 @@
     ],
     "Acknowledgements": "The authors would like to thank Lara Austerman, Lea Kampermann, and Sven Scho\u0308nig assistance in behavioral and fMRI data collection and helpful discussions and Martin Hebart and Krzysztof (Chris) J. Gorgolewski for assistance with fMRI methods and preprocessing. The authors are grateful to the University of Minnesota Center for Magnetic Resonance Research for providing the image reconstruction algorithm for the simultaneous multi-slice acquisitions. This work was supported by the Deutsche For- schungsgemeinschaft (Research Fellowship 317946335 to G.E.W.; DFG SFB TRR 58 and SFB 936 to C.B.), and the European Research Council (Grant ERC-2010- AdG_20100407).",
     "Funding": [
-        ""
+        "Deutsche Forschungsgemeinschaft (Research Fellowship 317946335 to G.E.W.)",
+        "DFG SFB TRR 58 and SFB 936 to C.B.",
+        "European Research Council (Grant ERC-2010- AdG_20100407)"
     ],
     "ReferencesAndLinks": [
         "https://doi.org/10.1101/450999",
