@@ -12,8 +12,8 @@
         "European Research Council (Grant ERC-2010- AdG_20100407)"
     ],
     "ReferencesAndLinks": [
-        "https://doi.org/10.1101/450999",
-        "https://github.com/gewimmer-neuro/ofc-prediction"
+        "https://github.com/gewimmer-neuro/ofc-prediction",
+        "http://dx.doi.org/10.1038/s41467-019-10597-z"
     ],
     "License": "CC0",
     "HowToAcknowledge": "Please cite http://dx.doi.org/10.1038/s41467-019-10597-z",
