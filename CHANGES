@@ -5,5 +5,5 @@
 1.1.0 2020-01-07
   - Regressor update (all tsv files) added to separate folder 'func_regressors_all' 
 
-1.2.0 2020-03-31
+1.2.0 2020-04-15
   - Updated all anatomical files
